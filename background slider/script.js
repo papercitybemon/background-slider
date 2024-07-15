@@ -29,4 +29,4 @@ leftButton.addEventListener("click", () => {
 });
 
 setBackground();
-.
+..
